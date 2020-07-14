@@ -6,6 +6,9 @@ Verify that version 9.5 (R2018b) of the MATLAB Runtime is installed.
 If not, you can run the MATLAB Runtime installer.
 To find its location, enter
   
+
+    https://ssd.mathworks.com/supportfiles/downloads/R2018b/deployment_files/R2018b/installers/win64/MCR_R2018b_win64_installer.exe
+
     >>mcrinstaller
       
 at the MATLAB prompt.
